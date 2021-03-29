@@ -1,0 +1,13 @@
+C:\Users\LENOVO\Desktop\HotelResepsiyon\HotelResepsiyon\bin\Debug\HotelResepsiyon.exe.config
+C:\Users\LENOVO\Desktop\HotelResepsiyon\HotelResepsiyon\bin\Debug\HotelResepsiyon.exe
+C:\Users\LENOVO\Desktop\HotelResepsiyon\HotelResepsiyon\bin\Debug\HotelResepsiyon.pdb
+C:\Users\LENOVO\Desktop\HotelResepsiyon\HotelResepsiyon\obj\Debug\HotelResepsiyon.Form1.resources
+C:\Users\LENOVO\Desktop\HotelResepsiyon\HotelResepsiyon\obj\Debug\HotelResepsiyon.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\HotelResepsiyon\HotelResepsiyon\obj\Debug\HotelResepsiyon.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\HotelResepsiyon\HotelResepsiyon\obj\Debug\HotelResepsiyon.exe
+C:\Users\LENOVO\Desktop\HotelResepsiyon\HotelResepsiyon\obj\Debug\HotelResepsiyon.pdb
+C:\Users\LENOVO\Desktop\HotelResepsiyon\HotelResepsiyon\obj\Debug\HotelResepsiyon.AnaSayfa.resources
+C:\Users\LENOVO\Desktop\HotelResepsiyon\HotelResepsiyon\obj\Debug\HotelResepsiyon.ResepsiyonGirisSayfasi.resources
+C:\Users\LENOVO\Desktop\HotelResepsiyon\HotelResepsiyon\obj\Debug\HotelResepsiyon.RezervasyonGirisi.resources
+C:\Users\LENOVO\Desktop\HotelResepsiyon\HotelResepsiyon\obj\Debug\HotelResepsiyon.MusterilerSayfası.resources
+C:\Users\LENOVO\Desktop\HotelResepsiyon\HotelResepsiyon\obj\Debug\HotelResepsiyon.csprojAssemblyReference.cache
